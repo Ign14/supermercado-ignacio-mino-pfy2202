@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-marca-50: #ecfdf5;
+  --color-marca-100: #d1fae5;
+  --color-marca-500: #10b981;
+  --color-marca-600: #059669;
+  --color-marca-700: #047857;
+  --color-marca-800: #065f46;
+  --color-marca-900: #064e3b;
+}
